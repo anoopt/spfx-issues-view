@@ -248,8 +248,11 @@ export default class IssuesViewWebPart extends BaseClientSideWebPart < IIssuesVi
                     </div>
                     <div class="ms-Grid-col ms-u-sm6 ms-u-md8 ms-u-lg12">
                         <p class="ms-font-l ${styles.header}"><i class="ms-Icon ms-Icon--CompletedSolid" aria-hidden="true"></i> Issues Completed</p>
-                        <ul id="completedIssuesContainer">
-                        </div>
+                        <ul id="completedIssuesContainer"></ul>
+                    </div>
+                    <div class="ms-Grid-col ms-u-sm6 ms-u-md8 ms-u-lg12">
+                        <p class="ms-font-l ${styles.header}"><i class="ms-Icon ms-Icon--ViewAll" aria-hidden="true"></i> Link to all issues</p>
+                        <a class="ms-Link ms-font-m" href="${this.context.pageContext.web.absoluteUrl}/Lists/Issues" target="_blank">Click here to view all issues</a>
                     </div>
                 </div>
         </div>
