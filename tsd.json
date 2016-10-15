@@ -1,0 +1,21 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "jquery/jquery.d.ts": {
+      "commit": "1ad10bb0dd35f98e27d4d848bfe3d5dfc919e9f0"
+    },
+    "chart.js/chart.js.d.ts": {
+      "commit": "1ad10bb0dd35f98e27d4d848bfe3d5dfc919e9f0"
+    },
+    "jqueryui/jqueryui.d.ts": {
+      "commit": "1ad10bb0dd35f98e27d4d848bfe3d5dfc919e9f0"
+    },
+    "combokeys/combokeys.d.ts": {
+      "commit": "1ad10bb0dd35f98e27d4d848bfe3d5dfc919e9f0"
+    }
+  }
+}
