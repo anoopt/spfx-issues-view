@@ -3,4 +3,6 @@ import { IPropertyFieldPeople } from 'sp-client-custom-fields/lib/PropertyFieldP
 export interface IIssuesViewWebPartProps {
   description : string;
   people : IPropertyFieldPeople[];
+  showForTeam: boolean;
+  teamName: string;
 }

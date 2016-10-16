@@ -6,16 +6,16 @@
   "bundle": "typings/tsd.d.ts",
   "installed": {
     "jquery/jquery.d.ts": {
-      "commit": "1ad10bb0dd35f98e27d4d848bfe3d5dfc919e9f0"
+      "commit": "da2ec683661b92240ca69c474790aaaeed8ec8e6"
     },
     "chart.js/chart.js.d.ts": {
       "commit": "1ad10bb0dd35f98e27d4d848bfe3d5dfc919e9f0"
     },
     "jqueryui/jqueryui.d.ts": {
-      "commit": "1ad10bb0dd35f98e27d4d848bfe3d5dfc919e9f0"
+      "commit": "da2ec683661b92240ca69c474790aaaeed8ec8e6"
     },
     "combokeys/combokeys.d.ts": {
-      "commit": "1ad10bb0dd35f98e27d4d848bfe3d5dfc919e9f0"
+      "commit": "da2ec683661b92240ca69c474790aaaeed8ec8e6"
     }
   }
 }

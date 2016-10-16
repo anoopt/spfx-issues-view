@@ -13,6 +13,7 @@
     "description": { "default": "Shows the issues report" },
     "officeFabricIconFontName": "IssueTracking",
     "properties": {
+      "teamName" : "Core"
     }
   }]
 }

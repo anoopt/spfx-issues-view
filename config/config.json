@@ -19,10 +19,16 @@
             "path": "node_modules/jquery/dist/jquery.min.js",
             "globalName": "jQuery"
         },
+        "jqueryui":"node_modules/jqueryui/jquery-ui.min.js",
         "chartjs": {
             "path": "node_modules/chart.js/dist/Chart.min.js",
             "globalName": "jQuery",
             "globalDependencies": ["jquery"]
+        },
+        "swal": {
+            "path": "https://cdn.jsdelivr.net/sweetalert2/5.3.1/sweetalert2.min.js",
+            "globalName": "jQuery",
+            "globalDependencies": [ "jquery" ]
         },
         "fabric": {
             "path": "node_modules/office-ui-fabric/dist/js/jquery.fabric.min.js",
